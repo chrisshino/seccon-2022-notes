@@ -40,3 +40,18 @@ Reqs for zero trust access
 
 (Think of this like zscaler but for kubectl and kubeapi instead of webapps!)
 
+### An open source solution!
+
+Paralus - https://www.paralus.io/
+
+Core capabilities:
+
+1. create customer roles, users and groups
+2. Changing and revoking perms
+3. Access control + SSO 
+
+How does it work?
+
+Adds an agent on each cluster, it reaches out to the Paralus server via 443, and the nice thing is you get an audit trail of all the users kubectl commands, etc.
+
+

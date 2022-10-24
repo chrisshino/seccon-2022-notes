@@ -8,3 +8,4 @@ Talks attended:
 4. Cloud native for the rest of us
 5. A day in the life of a base image
 6. Building images for the secure supply chain
+7. How’s Your Supply Chain with Your Insecure OSS Ingestion?

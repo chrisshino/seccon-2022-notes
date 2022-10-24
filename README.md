@@ -9,3 +9,4 @@ Talks attended:
 5. A day in the life of a base image
 6. Building images for the secure supply chain
 7. How’s Your Supply Chain with Your Insecure OSS Ingestion?
+8. Uncovering the history of your software artifacts

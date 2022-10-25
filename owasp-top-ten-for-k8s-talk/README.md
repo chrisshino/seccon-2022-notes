@@ -17,3 +17,18 @@ https://github.com/OWASP/www-project-kubernetes-top-ten
 
 Some questions to ask yourself:
 
+Can containers run as root?
+Can containers mount sensitive volumes / directories? Read or Read / Write?
+Can Pods run in “Privileged” mode?
+What policies (PSP, custom, OPA) are in place and for who?
+How is authentication handled?
+Is RBAC enforcing the principle of least privilege?
+How are secrets being stored and retrieved? Rotated? Revoked?
+Where do container images come from? Are images being validated?
+How is network security being enforced? Can you audit these rules?
+Are your hosts hardened? Monitoring in place?
+Are you using Kubernetes Audit? Where are logs sent?
+Ingress / LB inventory in place? What external IP addresses are available?
+What happens if / when your application has an SSRF bug?
+Have you performed a proper threat model of Kubernetes environments?
+Third party products, tools, helpers? Are they secure?

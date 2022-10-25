@@ -16,4 +16,4 @@ Day1
 Day2
 
 1. Detecting threats in github using Falco
-2. OWASP top 10 for kubernetes!
+2. [OWASP top 10 for kubernetes!](https://docs.google.com/presentation/d/1zTF3HQCsE07sSOBqoVckExeojFH0CMOn3lsDQaCCyLg/edit#slide=id.g129ed28870d_0_15)

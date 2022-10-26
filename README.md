@@ -19,3 +19,7 @@ Day2
 2. [OWASP top 10 for kubernetes!](https://docs.google.com/presentation/d/1zTF3HQCsE07sSOBqoVckExeojFH0CMOn3lsDQaCCyLg/edit#slide=id.g129ed28870d_0_15)
 3. [Secure CI/CD Using JSON Web Token (JWT)](https://static.sched.com/hosted_files/cloudnativesecurityconna22/de/Secure%20your%20CI_CD%20using%20JSON%20Web%20Token%20%28JWT%29%20%281%29.pdf)
 4. Bringing devsecops to your organization
+
+Day 3 
+
+1. Using eBPF superpowers
